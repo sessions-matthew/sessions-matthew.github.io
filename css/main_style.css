@@ -1,8 +1,8 @@
-body{
+body {
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     min-width: 650px;
-    margin: 30px;
+				margin: auto;
 }
 .background {
   max-height: 300px;
@@ -16,22 +16,19 @@ body{
   left: 5px;
   margin-bottom: -275px;
 }
-.nav-item {
-  cursor: pointer;
-}
-.box-holder {
+.outline-3 {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
 }
-.box-holder-frame {
+.outline-2 {
     background-color: aliceblue;
     box-shadow: -5px -5px black;
     margin: 10px;
     margin-bottom: 20px;
     padding: 10px;
 }
-.box {
+.outline-4 {
     width: 400px;
     background-color: #0090bf;
     color: white;
@@ -44,6 +41,9 @@ body{
     list-style: none;
     padding: 5px;
     margin-left: 5px;
+}
+.nav-item {
+  cursor: pointer;
 }
 .nav-link {
     background-color: lightblue;
