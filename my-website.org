@@ -1,4 +1,4 @@
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/main_style.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/main_style.css" /> 
 #+EXPORT_FILE_NAME: index.html
 #+OPTIONS: num:nil
 #+OPTIONS: toc:nil
@@ -15,32 +15,25 @@
 * About
 ** 
 *** Intro
-				My name is Matthew Sessions and I am a student of Computer Science at Oregon State. I have
-				been an undergrad TA for many courses but I don't think that academia is the place for me.
+    My name is Matthew Sessions and I am a student of Computer Science at Oregon State. I have
+    been an undergrad TA for many courses and currently work as an undergrad research assistant.
 
 *** Undergraduate Research Assistant for PDL at OSU
-				Most of my work at [[https://research.engr.oregonstate.edu/protodevlab/prototype-development-laboratory][PDL]] involves writing firmware for embedded systems as well as the 
-				applications that clients use to interface with these systems.
+    Most of my work at [[https://research.engr.oregonstate.edu/protodevlab/prototype-development-laboratory][PDL]] involves writing firmware for embedded systems as well as the 
+    applications that clients use to interface with these systems.
 
 * Technical
 ** 
 *** Languages
-				Being able to run uLisp on AVR is neat, but it uses most of what little memory is available.
-				- C/C++
-				- Javascript, Clojurescript, HTML, CSS
-				- uLisp / SBCL Common Lisp
-				- Python, Bash
-				- Kotlin
-				SBCL with SLY/SLIME is most convenient for rapidly developing applications, even ones with GUIs.
+    Here's a list of languages that I've used in projects.
+    '('C 'C++ 'Javascript 'Clojurescript 'HTML 'CSS 'CL 'Python 'Bash 'Kotlin)
+    
+    Developing applications with Common Lisp is neat.
 
 *** Frameworks
-				I still would like to try Clojurescript + React Native at some point.
-				- ExpressJS
-				- React JS/Native
-				- Flutter
-				- Nordic BLE SDK
-				The Nordic SDK takes some getting used to, but it really does a lot for you if you can
-				figure out how to use it properly.
+    The two frameworks that I've used the most are React and the Nordic BLE SDK.
+
+    For personal projects I use GTK3.
 
 * Read
 ** 
@@ -50,20 +43,22 @@ to write concise code in any language.
 
 * Hobby
 ** 
-*** Set Up
-				I am using Gentoo hardeneded that I build and binhost from my server. These are the programs that I use most.
+*** Systems
+    I am using Gentoo hardeneded that I build and binhost from my server. These are the programs that I use most.
     - Openbox
     - tint2
     - dmenu
-				- xss-lock
+    - xss-lock
     - st
     - Emacs
-				Emacs handles my notes, RSS feeds, code writing, etc. This page is a styled org file
-				that I edit in Emacs and then export to HTML.
 
 *** 3D Printing
-				Creating models with OpenSCAD works alright. I don't make anything all that sophisticated,
-				but it is much more convenient than popsicle sticks, paperclips, and hot glue. 
+    Creating models with OpenSCAD works alright. I don't make anything all that sophisticated,
+    but it is much more convenient than popsicle sticks, paperclips, and hot glue. 
 
 *** Anime
-				Have watched a lot of anime and plan to watch more.
+    Has interesting enough stories, generally.
+
+*** Lisp
+    If something can be ported (in a reasonable amount of time) to Emacs or CL it becomes my new
+    project.
