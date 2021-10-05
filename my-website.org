@@ -12,39 +12,58 @@
    </div>
 #+END_EXPORT
 
+
 * About
+[[https://sessions-matthew.github.io/][HTML Version]]
+
 ** 
 *** Intro
-    My name is Matthew Sessions and I am a student of Computer Science at Oregon State. I have
-    been an undergrad TA for many courses and currently work as an undergrad research assistant.
+    My name is Matthew Sessions and I am a student of Computer Science
+    at Oregon State. I have been an undergrad TA for many courses and
+    currently work as an undergrad research assistant. My expected
+    graduation date is this *Fall of 2021* with an undergraduate's
+    degree in Computer Science of the Systems option.
 
 *** Undergraduate Research Assistant for PDL at OSU
-    Most of my work at [[https://research.engr.oregonstate.edu/protodevlab/prototype-development-laboratory][PDL]] involves writing firmware for embedded systems as well as the 
-    applications that clients use to interface with these systems.
+    As a research assistant with [[https://research.engr.oregonstate.edu/protodevlab/prototype-development-laboratory][PDL]] I have lead, designed and
+		implemented various projects for clients that involved writing
+		firmware for a range of embedded systems in C/C++ to interface
+		with applications over communication protocols such as BLE or LTE.
 
 * Technical
 ** 
 *** Languages
     Here's a list of languages that I've used in projects.
-    '('C 'C++ 'Javascript 'Clojurescript 'HTML 'CSS 'CL 'Python 'Bash 'Kotlin)
+		#+BEGIN_SRC lisp
+		'('C 'C++ 'Javascript 'Clojurescript
+		 'HTML 'CSS 'CL 'Python 'Bash 'Kotlin)
+		#+END_SRC
     
-    Developing applications with Common Lisp is neat.
-
 *** Frameworks
-    The two frameworks that I've used the most are React and the Nordic BLE SDK.
-
-    For personal projects I use GTK3.
+		Between projects I have used various frameworks, my most used are
+		as follows:
+		- ReactJS / React Native
+		- Nordic nRF5 SDK
+		- Zephyr OS
+		- Arduino
 
 * Read
 ** 
 *** The Little Schemer
-This book really helped with understanding the core fundamentals of writing lisp programs and how
-to write concise code in any language.
+		This book really helped with understanding the core fundamentals
+		of writing lisp programs and how to write concise and functional
+		code in any language.
+
+*** OSTEP
+		This book helped me better understand the fundamentals of what
+		makes a good operating system and when it is appropriate to
+		use operating system in a project.
 
 * Hobby
 ** 
 *** Systems
-    I am using Gentoo hardeneded that I build and binhost from my server. These are the programs that I use most.
+    I use Gentoo hardened, these are the programs that I use
+    most:
     - Openbox
     - tint2
     - dmenu
@@ -53,12 +72,6 @@ to write concise code in any language.
     - Emacs
 
 *** 3D Printing
-    Creating models with OpenSCAD works alright. I don't make anything all that sophisticated,
-    but it is much more convenient than popsicle sticks, paperclips, and hot glue. 
-
-*** Anime
-    Has interesting enough stories, generally.
-
-*** Lisp
-    If something can be ported (in a reasonable amount of time) to Emacs or CL it becomes my new
-    project.
+		As a hobby and to avoid using popsicle sticks and paperclips I
+		have made models with OpenSCAD that I have then printed from my 3d
+		printer.
