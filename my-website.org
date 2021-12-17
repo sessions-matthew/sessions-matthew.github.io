@@ -14,8 +14,6 @@
 
 
 * About
-[[https://sessions-matthew.github.io/][HTML Version]]
-
 ** 
 *** Intro
     My name is Matthew Sessions and I am a student of Computer Science
